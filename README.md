@@ -125,6 +125,8 @@ public class Krrish extends Developer {
 - 🔨 Polishing **MusicFlow** — MediaSession integration & Lottie animation tweaks
 - 📡 Expanding **Dragon FM** with more HTTPS radio station streams
 - 🧪 Deepening **QA skills** with structured SFT documentation & test case design
+- 🔒 Developing **StegoVault** with enryption and decryption for security projects
+- 📰 Building **NewsFlash** with api integration and realtime broadcast
 
 ---
 
