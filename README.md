@@ -85,9 +85,10 @@ public class Krrish extends Developer {
 |--------|-------------|------|
 | 📰 **[NewsFlash](https://github.com/krrrish11/NewsFlash)** | Real-time news app with category filtering | Java · Retrofit2 · Glide · NewsAPI |
 | 🎵 **MusicFlow** | Full-featured music player with playlists & animations | Java · ExoPlayer · Room DB · Lottie |
-| 📻 **Dragon FM** | Internet radio with foreground service playback | Java · ExoPlayer · Foreground Service |
-| 🛒 **SoundForge** | E-commerce site with dark neon glassmorphism UI | React · Vite · Tailwind · Framer Motion |
+| 📻 **[StegoVault](https://github.com/krrrish11/StegoVault)** | Image Stegnography using LSB  | Java · Encodiing & Decoding · Glide |
+| 🛒 **[SoundForge](https://github.com/krrrish11/soundforge)** | E-commerce site with dark neon glassmorphism UI | React · Vite · Tailwind · Framer Motion |
 | 🧪 **Gaana SFT Report** | 50 manual test cases across 4 app modules | Manual Testing · Word · PowerPoint |
+
 
 </div>
 
@@ -118,7 +119,7 @@ public class Krrish extends Developer {
 
 </div>
 
----
+---x
 
 ## 🎯 Currently Working On
 
