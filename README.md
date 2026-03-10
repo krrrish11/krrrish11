@@ -115,7 +115,7 @@ public class Krrish extends Developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krrrish11&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover?username=krrrish11&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
