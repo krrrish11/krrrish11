@@ -162,7 +162,7 @@ public class Krrish extends Developer {
 [![GitHub](https://img.shields.io/badge/GitHub-krrrish11-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krrrish11)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kj9747516@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna--jadhav-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jadhav-126307295)
-[![Instagram](https://img.shields.io/badge/Instagram-@krrrish11-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krrrish11)
+[![Instagram](https://img.shields.io/badge/Instagram-@krrrish11-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krrrish.11)
 [![Facebook](https://img.shields.io/badge/Facebook-Krishna%20Jadhav-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/krishna.jadhav.patil.231073)
 [![Discord](https://img.shields.io/badge/Discord-krrrish11-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/4rtimus)
 
