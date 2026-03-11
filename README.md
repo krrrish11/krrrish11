@@ -100,10 +100,8 @@ public class Krrish extends Developer {
 |---|---------|-------------|------------|
 | 📰 | **[NewsFlash](https://github.com/krrrish11/NewsFlash)** | Real-time news app with category filtering & live API | Java · Retrofit2 · Glide · NewsAPI |
 | 🛒 | **[OrangeCart](https://github.com/krrrish11/OrangeCart)**| Online grocery shopping app, live search & order tracking | Java · MVVM · Retrofit2 · Lottie|
-| 🖥️ | **[OrangeCart Admin Panel](https://github.com/krrrish11/OrangeCartAdminPanel)** | Web dashboard for managing products, orders, users & banner slides |
-HTML · CSS · JavaScript|
-| ⚙️ | **[OrangeCart Backend](https://github.com/krrrish11/OrangeCartbackend)** | REST API powering the grocery app with auth, orders & real-time admin stats |
-Node.js · Express · MongoDB |
+| 🖥️ | **[OrangeCart Admin Panel](https://github.com/krrrish11/OrangeCartAdminPanel)** | Web dashboard for managing products, orders etc. |HTML · CSS · JavaScript|
+| ⚙️ | **[OrangeCart Backend](https://github.com/krrrish11/OrangeCartbackend)** | REST API powering the grocery app  |Node.js · Express · MongoDB |
 | 🔒 | **[StegoVault](https://github.com/krrrish11/StegoVault)** | Image steganography using LSB encoding & decoding | Java · LSB Algorithm · Glide |
 | 🛒 | **[SoundForge](https://github.com/krrrish11/soundforge)** | E-commerce site with dark neon glassmorphism UI | React · Vite · Tailwind · Framer Motion |
 | 🧪 | **Gaana SFT Report** | 50 manual test cases across 4 app modules with defect reports | Manual Testing · Word · PowerPoint |
