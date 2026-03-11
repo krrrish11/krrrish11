@@ -99,8 +99,11 @@ public class Krrish extends Developer {
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
 | 📰 | **[NewsFlash](https://github.com/krrrish11/NewsFlash)** | Real-time news app with category filtering & live API | Java · Retrofit2 · Glide · NewsAPI |
-| 🎵 | **MusicFlow** | Full-featured music player with playlists, MediaSession & animations | Java · ExoPlayer · Room DB · Lottie |
-| 📻 | **Dragon FM** | Internet radio player with foreground service & HTTPS streams | Java · ExoPlayer · Foreground Service |
+| 🛒 | **[OrangeCart](https://github.com/krrrish11/OrangeCart)**| Online grocery shopping app, live search & order tracking | Java · MVVM · Retrofit2 · Lottie|
+| 🖥️ | **[OrangeCart Admin Panel](https://github.com/krrrish11/OrangeCartAdminPanel)** | Web dashboard for managing products, orders, users & banner slides |
+HTML · CSS · JavaScript|
+| ⚙️ | **[OrangeCart Backend](https://github.com/krrrish11/OrangeCartbackend)** | REST API powering the grocery app with auth, orders & real-time admin stats |
+Node.js · Express · MongoDB |
 | 🔒 | **[StegoVault](https://github.com/krrrish11/StegoVault)** | Image steganography using LSB encoding & decoding | Java · LSB Algorithm · Glide |
 | 🛒 | **[SoundForge](https://github.com/krrrish11/soundforge)** | E-commerce site with dark neon glassmorphism UI | React · Vite · Tailwind · Framer Motion |
 | 🧪 | **Gaana SFT Report** | 50 manual test cases across 4 app modules with defect reports | Manual Testing · Word · PowerPoint |
@@ -145,8 +148,8 @@ public class Krrish extends Developer {
 ## 🎯 Currently Working On
 
 ```
-📱  MusicFlow   →  MediaSession integration & Lottie animation polish
-📡  Dragon FM   →  Expanding with more curated HTTPS radio streams
+🛒 OrangeCart Android App  →   Online grocery shopping app with cart persistence
+⚙️ OrangeCart Backend  →  REST API powering the grocery app with auth, orders 
 🔒  StegoVault  →  AES encryption layer on top of LSB steganography
 📰  NewsFlash   →  Bookmarks, offline caching & live broadcast support
 🧪  QA Skills   →  Structured SFT docs, regression suites & defect tracking
@@ -160,6 +163,10 @@ public class Krrish extends Developer {
 
 [![GitHub](https://img.shields.io/badge/GitHub-krrrish11-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krrrish11)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kj9747516@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna--jadhav-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jadhav-126307295)
+[![Instagram](https://img.shields.io/badge/Instagram-@krrrish11-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krrrish11)
+[![Facebook](https://img.shields.io/badge/Facebook-Krishna%20Jadhav-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/krishna.jadhav.patil.231073)
+[![Discord](https://img.shields.io/badge/Discord-krrrish11-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/4rtimus)
 
 </div>
 
